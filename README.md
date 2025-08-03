@@ -32,7 +32,7 @@ It provides an interactive interface for users to engage in conversational explo
 
 </p>
 
-* This figure shows an example of the chatbot interface used in the experiment.
+* This figure shows an example of the chatbot interface for progressive disclosure used in the experiment.
 
 <p align="center">
 
