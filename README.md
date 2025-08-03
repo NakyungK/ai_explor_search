@@ -28,7 +28,8 @@ It provides an interactive interface for users to engage in conversational explo
 
 <p align="center">
 
-  <img src="screenshot/overall_figure.png" alt="Exploratory Chatbot" width="1000"/>
+  <img src="https://raw.githubusercontent.com/NakyungK/ai_explor_search/main/screenshot/overall_figure.png" width="800"/>
+
 
 </p>
 
@@ -36,7 +37,8 @@ It provides an interactive interface for users to engage in conversational explo
 
 <p align="center">
 
-  <img src="screenshot/eng_example.png" alt="Exploratory Chatbot example" width="400"/>
+  <img src="https://raw.githubusercontent.com/NakyungK/ai_explor_search/main/screenshot/eng_example.png" width="400"/>
+
 
 </p>
 
@@ -109,4 +111,3 @@ This project is for academic or experimental use only.
 Please handle your API keys and environment files securely.
 
 If you use or adapt this code in your own work, **please provide attribution**!
-# ai_explor_search
