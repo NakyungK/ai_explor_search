@@ -21,28 +21,6 @@ It provides an interactive interface for users to engage in conversational explo
 
 ---
 
-## 🖼️ Demo Screenshot
-> English adaptation for illustration only. The experiment was conducted in Korean.
-
-* This figure provides an overview of the experimental conditions and illustrates how each condition was implemented in the chatbot interface.
-
-<p align="center">
-
-  <img src="https://raw.githubusercontent.com/NakyungK/ai_explor_search/main/screenshot/overall_figure.png" width="800"/>
-
-
-</p>
-
-* This figure shows an example of the chatbot interface for progressive disclosure used in the experiment.
-
-<p align="center">
-
-  <img src="https://raw.githubusercontent.com/NakyungK/ai_explor_search/main/screenshot/eng_example.png" width="400"/>
-
-
-</p>
-
-
 ## 📁 Project Structure
 ```bash
 
