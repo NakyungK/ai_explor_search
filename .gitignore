@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+.vscode/
+.gradio/
+.env
+screenshot/
+.DS_Store
