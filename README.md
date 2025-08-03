@@ -21,6 +21,18 @@ It provides an interactive interface for users to engage in conversational explo
 
 ---
 
+## 📝 Prompt templates for each condition
+
+Five prompt templates were defined to control the experimental conditions:  
+A 2×2 design combining response disclosure and prompt initiative,  
+Plus an additional prompt for detailed responses in the progressive disclosure condition.
+
+
+<a href="https://github.com/NakyungK/ai_explor_search/blob/4703e354fcdfab7eec4aaebf79fa30c9d192293a/my_prompt.py" target="_blank">
+🔗 View Prompt on GitHub</a>
+
+---
+
 ## 📁 Project Structure
 ```bash
 
@@ -35,18 +47,6 @@ ai_explor_chatbot/
 ├── README.md # Project documentation (you are here)
 └── .env # 🔐 [NOT committed] contains API keys
 ```
-
----
-
-# 📝 Prompt templates for each condition
-
-Five prompt templates were defined to control the experimental conditions:  
-A 2×2 design combining response disclosure and prompt initiative,  
-Plus an additional prompt for detailed responses in the progressive disclosure condition.
-
-
-<a href="https://github.com/NakyungK/ai_explor_search/blob/4703e354fcdfab7eec4aaebf79fa30c9d192293a/my_prompt.py" target="_blank">
-🔗 View Prompt on GitHub</a>
 
 ---
 
